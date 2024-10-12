@@ -16,6 +16,10 @@ def main():
     
     # Initialize message history
     messages = []
+    
+    # Get user-defined persona
+    persona = input("Set the chatbot persona (e.g., formal, casual, playful): ")
+    messages.append({"role": "system", "content": f"You are a {persona} chatbot."})
 
     while True:
         user_input = input("\nYou: ")
