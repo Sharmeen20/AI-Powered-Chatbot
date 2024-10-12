@@ -1,5 +1,5 @@
 # AI-Powered-Chatbot
-This is a simple command-line AI-powered chatbot application built with Python. The chatbot uses the OpenAI API to respond to user queries and provide information on various topics.
+This is a command-line AI-powered chatbot application built with Python. The chatbot uses the OpenAI API to respond to user queries and provide information on various topics.
 
 ## Features
 - Conversational interaction with an AI chatbot
@@ -11,5 +11,4 @@ This is a simple command-line AI-powered chatbot application built with Python. 
 
 ## How to Run
 1. Sign up for an API key at [OpenAI](https://openai.com/api/) and set it in the code.
-2. Clone the repository:
 
